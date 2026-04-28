@@ -1,0 +1,16 @@
+id_estudiante,nombre,edad,carrera,indice,aprobado
+101,Ana Garcia,20,Ingenieria de Computacion,4.5,True
+102,Luis Perez,22,Ingenieria Electronica,3.8,True
+103,Maria Rodriguez,19,Matematicas,4.2,True
+104,Jose Hernandez,21,Ingenieria de Computacion,2.9,False
+105,Elena Martinez,23,Arquitectura,4.1,True
+106,Pedro Castillo,20,Ingenieria Mecanica,3.5,True
+107,Sofia Lopez,22,Ingenieria de Computacion,4.8,True
+108,Carlos Ruiz,21,Matematicas,3.2,False
+109,Diego Torres,20,Ingenieria de Computacion,3.9,True
+110,Laura Gomez,19,Ingenieria Electronica,4.6,True
+111,Andres Bello,24,Matematicas,2.5,False
+112,Beatriz Gil,21,Arquitectura,4.9,True
+113,Ricardo Zuloaga,22,Ingenieria Electronica,3.1,False
+114,Carmen Perez,20,Ingenieria de Computacion,4.2,True
+115,Samuel Robinson,23,Matematicas,4.7,True

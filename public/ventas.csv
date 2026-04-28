@@ -1,0 +1,11 @@
+fecha,producto,categoria,cantidad,precio_unitario,sucursal
+2024-01-01,Laptop,Electronica,5,1200,Sartenejas
+2024-01-02,Mouse,Accesorios,15,25,Litoral
+2024-01-03,Monitor,Electronica,8,300,Sartenejas
+2024-01-04,Teclado,Accesorios,10,45,Sartenejas
+2024-01-05,Laptop,Electronica,2,1200,Litoral
+2024-01-06,Impresora,Oficina,4,150,Sartenejas
+2024-01-07,Mouse,Accesorios,20,25,Sartenejas
+2024-01-08,Monitor,Electronica,5,300,Litoral
+2024-01-09,Laptop,Electronica,3,1200,Sartenejas
+2024-01-10,Teclado,Accesorios,12,45,Litoral
